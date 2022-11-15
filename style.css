@@ -7,3 +7,17 @@
 body {
   background: #2b010f;
 }
+
+.card {
+  width: 90%;
+  max-width: 400px;
+  margin: 150px auto;
+  background: #fff;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.cover {
+  height: 200px;
+  background: #ececec;
+}
