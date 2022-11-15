@@ -53,4 +53,11 @@ body {
   );
   background-size: 200%;
   background-position: 100% 0;
+  animation: waves 2s linear infinite;
+}
+
+@keyframes waves {
+  100% {
+    background-position: -100% 0;
+  }
 }
